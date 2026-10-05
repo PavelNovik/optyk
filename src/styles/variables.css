@@ -1,0 +1,32 @@
+/* «Clarity»: фарфор, чернила, фирменный лайм Ok.Optyk и холодный «линзовый» голубой */
+:root {
+  --paper: #f6f5f1;
+  --paper-2: #edece5;
+  --white: #ffffff;
+  --ink: #12161f;
+  --ink-2: #3b4150;
+  --muted: #646a78;
+  --line: rgba(18, 22, 31, 0.12);
+  --line-strong: rgba(18, 22, 31, 0.24);
+
+  --lime: #c4dd3a;
+  --lime-2: #dbeb7f;
+  --lime-ink: #4d5a00;
+  --sky: #a9c8e3;
+  --sky-2: #e3edf6;
+  --sale: #e0443e;
+
+  --font-display: 'Jost', 'Futura', system-ui, sans-serif;
+  --font-body: 'Mulish', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-mono: 'Source Code Pro', ui-monospace, monospace;
+
+  --radius: 28px;
+  --radius-sm: 16px;
+  --shadow: 0 1px 2px rgba(18, 22, 31, 0.05), 0 12px 32px -12px rgba(18, 22, 31, 0.16);
+  --shadow-lg: 0 2px 4px rgba(18, 22, 31, 0.06), 0 30px 60px -20px rgba(18, 22, 31, 0.28);
+
+  --gutter: clamp(16px, 4vw, 40px);
+  --header-h: 76px;
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+}

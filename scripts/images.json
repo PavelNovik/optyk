@@ -1,0 +1,16 @@
+{
+  "hero": { "src": "https://images.unsplash.com/photo-1485875437342-9b39470b3d95", "author": "Tamara Bellis", "user": "tamarabellis", "width": 2000, "params": "h=1500&fit=crop&crop=faces" },
+  "exam": { "src": "https://images.unsplash.com/photo-1766310549795-dd0fc75d499f", "author": "Annie Spratt", "user": "anniespratt", "width": 1400, "params": "h=1000&fit=crop" },
+  "kids": { "src": "https://images.unsplash.com/photo-1593194777536-e155e6d100b2", "author": "Zahra Amiri", "user": "zahraamiri_", "width": 1200, "params": "h=1200&fit=crop&crop=faces" },
+  "sun": { "src": "https://images.unsplash.com/photo-1577803645773-f96470509666", "author": "Sebastian Coman Travel", "user": "sebcomantravel", "width": 1400, "params": "h=1000&fit=crop" },
+  "office": { "src": "https://images.unsplash.com/photo-1572021335469-31706a17aaef", "author": "Jud Mackrill", "user": "judmackrill", "width": 1600, "params": "h=1100&fit=crop" },
+  "man": { "src": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5", "author": "Christian Buehner", "user": "christianbuehner", "width": 1200, "params": "h=1200&fit=crop&crop=faces" },
+  "wall": { "src": "https://images.unsplash.com/photo-1486250944723-86bca2b15b06", "author": "Scott Van Daalen", "user": "scottvd", "width": 2000, "params": "h=1100&fit=crop" },
+  "book": { "src": "https://images.unsplash.com/photo-1574258495973-f010dfbb5371", "author": "Sincerely Media", "user": "sincerelymedia", "width": 1600, "params": "h=1100&fit=crop" },
+  "tryon": { "src": "https://images.unsplash.com/photo-1546914782-96b636ea44e5", "author": "Susan Duran", "user": "susanduran07", "width": 1400, "params": "h=1100&fit=crop&crop=faces" },
+  "salon-1": { "url": "https://okoptyk.pl/assets/images/about/rectangle-14.jpg", "width": 1200 },
+  "salon-2": { "url": "https://okoptyk.pl/assets/images/about/rectangle-12.jpg", "width": 1200 },
+  "salon-3": { "url": "https://okoptyk.pl/assets/images/about/rectangle-3-1.jpg", "width": 1200 },
+  "salon-4": { "url": "https://okoptyk.pl/assets/images/about/rectangle-9-1.jpg", "width": 1200 },
+  "salon-5": { "url": "https://okoptyk.pl/assets/images/about/rectangle-13.jpg", "width": 1200 }
+}
